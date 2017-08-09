@@ -1,0 +1,68 @@
+@{
+  Layout = "_Layout";
+}
+
+<form action="/results" method="post">
+  <div class="well col-md-4 player1well">
+
+    <div id="player1waiting">
+      <h1>Player 1</h1>
+      <h2>Wait yur turn, matey.</h2>
+    </div>
+
+    <div id="player1">
+      <h1>Player 1</h1>
+      <div class="radio">
+        <label>
+          <input type="radio" name="p1Option" value="scissors" checked>
+          <img src="/img/scissors.png">Scissors
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="p1Option" value="paper">
+          <img src="/img/paper.png">Paper
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="p1Option" value="rock">
+          <img src="/img/rock.jpg">Rock
+        </label>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 submitbutton">
+    <button type="submit">1... 2... 3... Go!</button>
+  </div>
+
+  <div class="well col-md-4 player2well">
+    <div id="player2waiting">
+      <h1>Player 2</h1>
+      <h2>Wait yur turn, matey.</h2>
+    </div>
+
+    <div id="player2">
+      <h1>Player 2</h1>
+      <div class="radio">
+        <label>
+          <input type="radio" name="p2Option" value="scissors" checked>
+          <img src="/img/scissors.png">Scissors
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="p2Option" value="paper">
+          <img src="/img/paper.png">Paper
+        </label>
+      </div>
+      <div class="radio">
+        <label>
+          <input type="radio" name="p2Option" value="rock">
+          <img src="/img/rock.jpg">Rock
+        </label>
+      </div>
+    </div>
+  </div>
+</form>
