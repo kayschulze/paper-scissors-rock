@@ -24,5 +24,21 @@ namespace PaperScissorsRock.Tests
         //Assert
         Assert.AreEqual(expectedWinner, actualWinner);
       }
+
+      [TestMethod]
+      public void PSRClass_RockBeatsScissors_Player1()
+      {
+        //Arrange
+        string playerone = "rock";
+        string playertwo = "scissors";
+        PSRClass newGame = new PSRClass(playerone, playertwo);
+        string expectedWinner = "player 1";
+
+        //Act
+        string actualWinner = newGame.DetermineWinner();
+
+        //Assert
+        Assert.AreEqual(expectedWinner, actualWinner);
+      }
   }
 }
