@@ -10,12 +10,12 @@ namespace PaperScissorsRock.Tests
 
   {
       [TestMethod]
-      public void PSRClass_PaperBeatsRock_Player2()
+      public void PSRClass_PaperBeatsRock_Player1()
       {
         //Arrange
-        string expectedWinner = "player 2";
-        string playerone = "rock";
-        string playertwo = "paper";
+        string expectedWinner = "player 1";
+        string playerone = "paper";
+        string playertwo = "rock";
         PSRClass newGame = new PSRClass(playerone, playertwo);
 
         //Act
@@ -33,6 +33,22 @@ namespace PaperScissorsRock.Tests
         string playertwo = "scissors";
         PSRClass newGame = new PSRClass(playerone, playertwo);
         string expectedWinner = "player 1";
+
+        //Act
+        string actualWinner = newGame.DetermineWinner();
+
+        //Assert
+        Assert.AreEqual(expectedWinner, actualWinner);
+      }
+
+      [TestMethod]
+      public void PSRClass_ScissorsBeatPaper_Player1()
+      {
+        //Arrange
+        string expectedWinner = "player 1";
+        string playerone = "scissors";
+        string playertwo = "paper";
+        PSRClass newGame = new PSRClass(playerone, playertwo);
 
         //Act
         string actualWinner = newGame.DetermineWinner();

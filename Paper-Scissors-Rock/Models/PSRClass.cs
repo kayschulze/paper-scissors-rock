@@ -33,6 +33,14 @@ namespace PaperScissorsRock.Models
         {
           _winner = "player 2";
         }
+        else if (_playerOneMove == "scissors" && _playerTwoMove == "paper")
+        {
+          _winner = "player 1";
+        }
+        else if (_playerOneMove == "paper" && _playerTwoMove == "scissors")
+        {
+          _winner = "player 2";
+        }
 
         return _winner;
       }
