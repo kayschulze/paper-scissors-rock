@@ -17,9 +17,9 @@ _Do it!_
 ## Specifications
 | Behavior | Input | Output |
 | ---- | ---- | ---- |
-| 1. Paper beats rock | Paper, Rock | Paper Beats Rock |
-| 2. Rock beats scissors | Rock, Scissors | Rock Beats Scissors |
-| 3. Scissors beats Paper | Scissors, Paper | Scissors Beats Paper |
+| 1. Paper beats rock | Paper, Rock | Player 1 Wins|
+| 2. Rock beats scissors | Rock, Scissors | Player 1 Wins |
+| 3. Scissors beats Paper | Scissors, Paper | Player 1 Wins |
 | 4. Tie plays again | Rock, Rock | We're at an impasse.  Play again. |
 
 ## Known Bugs

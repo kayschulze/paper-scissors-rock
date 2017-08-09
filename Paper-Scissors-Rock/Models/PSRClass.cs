@@ -17,7 +17,12 @@ namespace PaperScissorsRock.Models
 
       public string DetermineWinner()
       {
-        return "Nobody ever wins!";
+        if (_playerOneMove == "paper" && _playerTwoMove == "rock")
+        {
+          _winner = "player 1";
+        }
+
+        return _winner;
       }
 
     }
