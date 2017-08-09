@@ -10,12 +10,12 @@ namespace PaperScissorsRock.Tests
 
   {
       [TestMethod]
-      public void PSRClass_PaperBeatsRock_Player1()
+      public void PSRClass_PaperBeatsRock_Player2()
       {
         //Arrange
-        string expectedWinner = "player 1";
-        string playerone = "paper";
-        string playertwo = "rock";
+        string expectedWinner = "player 2";
+        string playerone = "rock";
+        string playertwo = "paper";
         PSRClass newGame = new PSRClass(playerone, playertwo);
 
         //Act
