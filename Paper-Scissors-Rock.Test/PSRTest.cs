@@ -56,5 +56,21 @@ namespace PaperScissorsRock.Tests
         //Assert
         Assert.AreEqual(expectedWinner, actualWinner);
       }
+
+      [TestMethod]
+      public void PSRClass_SameInputIsATie_Player1()
+      {
+        //Arrange
+        string expectedWinner = "We're at an impasse.  Play again.";
+        string playerone = "rock";
+        string playertwo = "rock";
+        PSRClass newGame = new PSRClass(playerone, playertwo);
+
+        //Act
+        string actualWinner = newGame.DetermineWinner();
+
+        //Assert
+        Assert.AreEqual(expectedWinner, actualWinner);
+      }
   }
 }

@@ -41,6 +41,10 @@ namespace PaperScissorsRock.Models
         {
           _winner = "player 2";
         }
+        else
+        {
+          _winner = "We're at an impasse.  Play again.";
+        }
 
         return _winner;
       }
