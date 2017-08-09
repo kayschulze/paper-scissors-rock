@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.deps.json
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.runtimeconfig.json
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.runtimeconfig.dev.json
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.dll
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.pdb
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock/obj/Debug/netcoreapp1.1/Paper-Scissors-Rock.AssemblyInfo.cs
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock/obj/Debug/netcoreapp1.1/Paper-Scissors-Rock.dll
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock/obj/Debug/netcoreapp1.1/Paper-Scissors-Rock.pdb

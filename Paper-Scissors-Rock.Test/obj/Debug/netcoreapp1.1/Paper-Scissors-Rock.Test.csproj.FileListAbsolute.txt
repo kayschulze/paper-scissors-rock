@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.Test.deps.json
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.Test.runtimeconfig.json
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.Test.runtimeconfig.dev.json
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.Test.dll
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.Test.pdb
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.dll
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/bin/Debug/netcoreapp1.1/Paper-Scissors-Rock.pdb
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/obj/Debug/netcoreapp1.1/Paper-Scissors-Rock.Test.AssemblyInfo.cs
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/obj/Debug/netcoreapp1.1/Paper-Scissors-Rock.Test.dll
+/Users/Guest/Desktop/paper-scissors-rock.Solution/Paper-Scissors-Rock.Test/obj/Debug/netcoreapp1.1/Paper-Scissors-Rock.Test.pdb
